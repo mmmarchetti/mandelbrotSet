@@ -1,8 +1,3 @@
-# mandelbrotSet
-
-Certainly! A good README file typically provides information about the project, how to set it up, and how to use it. Here's a simple template you can use for the README file of your Mandelbrot Set project:
-
-```markdown
 # Mandelbrot Set Renderer
 
 This project is a simple Mandelbrot Set renderer using C++ and SDL.
