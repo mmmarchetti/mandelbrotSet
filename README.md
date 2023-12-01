@@ -33,8 +33,8 @@ This project generates a Mandelbrot Set image and renders it using SDL. It demon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/mandelbrot-set.git
-   cd mandelbrot-set
+   git clone https://github.com/mmmarchetti/mandelbrotSet.git
+   cd mandelbrotSet
    ```
 
 2. Install SDL2 (if not already installed):
@@ -67,5 +67,3 @@ If you encounter issues with running the project in your environment, Docker sup
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace placeholders like `your_username` with your actual GitHub username, and adjust the content as needed. Additionally, include any other relevant information about your project.
